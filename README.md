@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a project fork from [berry-template](https://github.com/codedthemes/berry-free-react-admin-template/tree/main/create-react-app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
